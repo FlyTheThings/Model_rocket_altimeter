@@ -24,7 +24,7 @@ void  dac_init(void);
 float adc (void);
 void  korkeusmittari_init(void);
 void  uart_init(void);
-int	  korkeus (void);
+int   korkeus (void);
 void  put_char (unsigned char merkki);
 void  put_int (int luku);
 void  put_merkkijono (unsigned char merkkijono[]);
